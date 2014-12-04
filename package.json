@@ -1,0 +1,31 @@
+{
+  "name": "hierarchical-task-list-server",
+  "version": "1.0.0",
+  "description": "The back-end for hierarchical-task-list-app. Meant to manage the database and provide a good API to the app.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "task",
+    "list",
+    "todo",
+    "db"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/hierarchical-task-list-server.git"
+  },
+  "homepage": "https://github.com/bunnybones1/hierarchical-task-list-server",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/hierarchical-task-list-server/issues"
+  }
+}
