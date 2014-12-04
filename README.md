@@ -5,9 +5,9 @@
 The back-end for hierarchical-task-list-app. Meant to manage the database and provide a good API to the app.
 
 This is part of a bundle of packages meant to work together. They are:
-[The App](https://github.com/bunnybones1/hierarchical-task-list-app)
-[The Client](https://github.com/bunnybones1/hierarchical-task-list-client)
-[The Server](https://github.com/bunnybones1/hierarchical-task-list-server)
+* [The App](https://github.com/bunnybones1/hierarchical-task-list-app)
+* [The Client](https://github.com/bunnybones1/hierarchical-task-list-client)
+* [The Server](https://github.com/bunnybones1/hierarchical-task-list-server)
 
 ## Usage
 
