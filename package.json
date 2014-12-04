@@ -1,6 +1,6 @@
 {
   "name": "hierarchical-task-list-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The back-end for hierarchical-task-list-app. Meant to manage the database and provide a good API to the app.",
   "main": "index.js",
   "license": "MIT",
